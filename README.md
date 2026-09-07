@@ -118,7 +118,7 @@ If you find our work useful in your research, we would be grateful if you could 
  year = {2025}
 }
 
-@ARTICLE{11434951,
+@ARTICLE{pang2026illmtsc,
   author={Pang, Aoyu and Wang, Maonan and Pun, Man-On and Chen, Chung Shue and Xiong, Xi},
   journal={IEEE Transactions on Vehicular Technology}, 
   title={iLLM-TSC: Integration Reinforcement Learning and Large Language Model for Traffic Signal Control Policy Improvement}, 
@@ -155,7 +155,7 @@ You may also be interested in our earlier work on RL-based traffic signal contro
   doi={10.1109/TITS.2024.3462153}
 }
 
-@ARTICLE{10443835,
+@ARTICLE{pang2024delaytsc,
   author={Pang, Aoyu and Wang, Maonan and Chen, Yirong and Pun, Man-On and Lepech, Michael},
   journal={IEEE Open Journal of Vehicular Technology}, 
   title={Scalable Reinforcement Learning Framework for Traffic Signal Control Under Communication Delays}, 
